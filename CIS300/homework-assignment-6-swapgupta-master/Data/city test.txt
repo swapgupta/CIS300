@@ -1,0 +1,7 @@
+4
+New York,Chicago,789
+New York,Los Angeles,2790
+New York,Dallas,1547
+Chicago,Los Angeles,2016
+Chicago,Dallas,926
+Los Angeles,Dallas,1436
